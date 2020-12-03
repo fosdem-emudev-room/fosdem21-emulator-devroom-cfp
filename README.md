@@ -19,6 +19,7 @@ Every year, thousands of developers of free and open source software from all ov
 ### Desirable topics
 Really **anything** goes, but here are some ideas(for inspiration):
 - Console emulator development
+- Computer emulator development
 - Hardware emulation
 - OS emulation development
 - Virtual Machines development
