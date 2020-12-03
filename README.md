@@ -48,7 +48,7 @@ Create an **event** and click on **Show all** in the top right corner to display
 
 ### Contact us
 - [Mahmoud Abdelghany](https://twitter.com/blackbeard0x14e)
-- [Christophe Creeten](mailto:christophecreeten@hotmail.com
-)
+- [Christophe Creeten](mailto:christophecreeten@hotmail.com)
+- [Niels Renard](https://twitter.com/nielsrenard)
 - sorry, but the others are too shy ¯\\_(ツ)_/¯
 
