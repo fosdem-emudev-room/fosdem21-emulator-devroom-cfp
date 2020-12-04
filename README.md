@@ -22,7 +22,7 @@ Really **anything** goes, but here are some ideas(for inspiration):
 - Computer emulator development
 - Hardware emulation
 - OS emulation development
-- Virtual Machines development
+- Virtual Machine development
 - Emulation legality
 - Emulation history
 - ...
