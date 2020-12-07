@@ -15,6 +15,7 @@ Every year, thousands of developers of free and open source software from all ov
 - FOSDEM is free to attend. There is no registration.
 - [FOSDEM website](https://fosdem.org/)
 - [FOSDEM code of conduct](https://fosdem.org/2021/practical/conduct/)
+- [Emulator devroom schedule](https://fosdem.org/2021/schedule/track/emulator_development/)
 
 ### Desirable topics
 Really **anything** goes, but here are some ideas(for inspiration):
@@ -44,8 +45,10 @@ Create an **event** and click on **Show all** in the top right corner to display
 
 ### Important Dates
 - **December 28th: submission deadline**
-- January 6th: announcement selected talks  
-- February 6th: FOSDEM!
+- ~January 6th: announcement selected talks~
+- ASAP: announcement selected talks
+- January: speakers are contacted to pre-record sessions
+- February 6th: FOSDEM!(with live Q&A during recorded talks)
 
 ### Contact us
 - [Mahmoud Abdelghany](https://twitter.com/blackbeard0x14e)
