@@ -41,10 +41,13 @@ Create an **event** and click on **Show all** in the top right corner to display
 - contact info
 - title(funny titles are appreciated)
 - abstract(what you're gonna talk about)
-- duration(25 min or 50 min)
+- duration~~(25 min or 50 min)~~
 
 ### Important Dates
 - **December 28th: submission deadline**
+  - FAQ - is the submission deadline final?
+    - Technically speaking, you can submit talks till pentabarf closes, which should be somewhere in January
+    - However, talks submitted before the 29th get a higher precedence
 - ~January 6th: announcement selected talks~
 - ASAP: announcement selected talks
 - January: speakers are contacted to pre-record sessions
