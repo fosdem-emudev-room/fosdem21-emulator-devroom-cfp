@@ -41,7 +41,7 @@ Create an **event** and click on **Show all** in the top right corner to display
 - contact info
 - title(funny titles are appreciated)
 - abstract(what you're gonna talk about)
-- duration~~(25 min or 50 min)~~
+- duration ~~(25 min or 50 min)~~
 
 ### Important Dates
 - **December 28th: submission deadline**
