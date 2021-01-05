@@ -40,7 +40,7 @@ This means:
     - https://github.com/FOSDEM/video/wiki/FOSDEM-2021-video-email-to-speakers
     - https://lists.fosdem.org/private/devroom-managers/2021-January/002214.html
     - https://otl.du.edu/knowledgebase/using-zoom-to-record-a-video-presentation/
-    - https://peertube.xwiki.com/videos/watch/e4f9135b-472e-45e3-b6b5-c83e4b5dc947 <-- thanks Collab devroom!
+    - https://lists.fosdem.org/private/devroom-managers/2021-January/002239.html <-- thanks Collab devroom!
 There are currently 2 obvious ways to record the talks:
 - Conference call record(**recommended**) - we would set up a call with one of the moderators/hosts, and record the online presentation(Jitsi, Zoom, Meets...etc)
 - Record by yourself - meaning you as speaker are free to choose whatever software(OBS?) or green screen or what not to make the talk as fancy as possible
