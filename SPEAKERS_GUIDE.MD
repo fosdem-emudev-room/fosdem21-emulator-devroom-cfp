@@ -3,8 +3,11 @@
 - [Talk structure](#talk-structure)
   - [Example:](#example)
 - [How to pre-record your talk](#how-to-pre-record-your-talk)
+    - [Tools to pre-record by yourself](#tools-to-pre-record-by-yourself)
     - [Recording deadline](#recording-deadline)
         - [How to upload the video?](#how-to-upload-the-video)
+- [How to live Q&A](#how-to-live-qa)
+      - [Question: is this approach for both Formal & Informal Q&A?](#question-is-this-approach-for-both-formal--informal-qa)
 - [Glossary](#glossary)
 
 ## Talk structure
@@ -36,6 +39,7 @@ This means:
     sources:
     - https://github.com/FOSDEM/video/wiki/FOSDEM-2021-video-email-to-speakers
     - https://lists.fosdem.org/private/devroom-managers/2021-January/002214.html
+    - https://otl.du.edu/knowledgebase/using-zoom-to-record-a-video-presentation/
 There are currently 2 obvious ways to record the talks:
 - Conference call record(**recommended**) - we would set up a call with one of the moderators/hosts, and record the online presentation(Jitsi, Zoom, Meets...etc)
 - Record by yourself - meaning you as speaker are free to choose whatever software(OBS?) or green screen or what not to make the talk as fancy as possible
@@ -43,12 +47,32 @@ There are currently 2 obvious ways to record the talks:
 
 Unless you want to show lots of live demos and do super fancy schmancy stuff, then a conference call recording will probably be sufficient.
 
+### Tools to pre-record by yourself
+So everybody is free to use whatever tool they want of course, but here are a couple of tips just in case:
+- OBS studio - the de facto standard for recording stuff. for more info see https://github.com/FOSDEM/video/wiki/FOSDEM-2021-video-email-to-speakers
+- Jitsi/Zoom/... - most videoconferencing software will allow you to do a solo call with screen sharing. They also provide built-in recording, so no extra screen capture software is needed. Example: https://blog.smu.edu/itconnect/2017/08/23/using-zoom-create-quick-easy-screen-recordings-free/
+
 
 ### Recording deadline
 We haven't heard about the official deadline yet, but for the time being **January 17th 2021** will serve as our deadline.
 
 #### How to upload the video?
 TBA
+
+## How to live Q&A
+    sources:
+    - https://lists.fosdem.org/private/devroom-managers/2020-December/002175.html
+    - https://lists.fosdem.org/private/devroom-managers/2021-January/002233.html
+    - https://matrix.org/blog/2021/01/04/taking-fosdem-online-via-matrix
+The live Q&A will start with a Matrix chatroom during the talk, with the option to answer questions in the chat of course. And continues live with Jitsi after the talk is finished.
+
+What you will need is:
+- Matrix account & client: for more info see https://matrix.org/blog/2021/01/04/taking-fosdem-online-via-matrix
+- Jitsi: they have some native clients, but the web client works just fine
+
+#### Question: is this approach for both Formal & Informal Q&A?
+The working assumption is yes, but we will add more details once they are known.
+
 
 ## Glossary
 
