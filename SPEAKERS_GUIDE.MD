@@ -7,7 +7,7 @@
     - [Recording deadline](#recording-deadline)
         - [How to upload the video?](#how-to-upload-the-video)
 - [How to live Q&A](#how-to-live-qa)
-      - [Question: is this approach for both Formal & Informal Q&A?](#question-is-this-approach-for-both-formal--informal-qa)
+  - [Question: is this approach for both Formal & Informal Q&A?](#question-is-this-approach-for-both-formal--informal-qa)
 - [Glossary](#glossary)
 
 ## Talk structure
@@ -68,8 +68,8 @@ TBA
 The live Q&A will start with a Matrix chatroom during the talk, with the option to answer questions in the chat of course. And continues live with Jitsi after the talk is finished.
 
 What you will need is:
-- Matrix account & client: for more info see https://matrix.org/blog/2021/01/04/taking-fosdem-online-via-matrix
-- Jitsi: they have some native clients, but the web client works just fine
+- Matrix account & client - for more info see https://matrix.org/blog/2021/01/04/taking-fosdem-online-via-matrix
+- Jitsi - they have some native clients, but the web client works just fine
 
 #### Question: is this approach for both Formal & Informal Q&A?
 The working assumption is yes, but we will add more details once they are known.
