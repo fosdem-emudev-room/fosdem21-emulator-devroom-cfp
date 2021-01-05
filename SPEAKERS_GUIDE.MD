@@ -32,7 +32,7 @@ There are 2 important fields in penta regarding the duration of the talk:
 This means:
 - at exactly 12:00 the pre-recorded video will start playing
 - at 12:22:30 the stream will switch over to the live feed with the speaker & moderator/host for the **Formal Q&A**
-- at 12:30 the speaker & audience will get a chance to switch to a different channel to continue the discussion, before the next pre-recorded video will start playing
+- at 12:30 the speaker & audience will get a chance to switch to a different channel to continue the discussion(**Informal Q&A**), before the next pre-recorded video will start playing
 
 
 ## How to pre-record your talk
