@@ -50,7 +50,7 @@ Unless you want to show lots of live demos and do super fancy schmancy stuff, th
 
 ### Tools to pre-record by yourself
 So everybody is free to use whatever tool they want of course, but here are a couple of tips just in case:
-- OBS studio - the de facto standard for recording stuff. for more info see https://github.com/FOSDEM/video/wiki/FOSDEM-2021-video-email-to-speakers & https://peertube.xwiki.com/videos/watch/e4f9135b-472e-45e3-b6b5-c83e4b5dc947
+- OBS studio - the de facto standard for recording stuff. for more info see https://github.com/FOSDEM/video/wiki/FOSDEM-2021-video-email-to-speakers & https://peertube.xwiki.com/videos/watch/c5cf50e3-2277-440a-b339-34874acd00b3
 - Jitsi/Zoom/... - most videoconferencing software will allow you to do a solo call with screen sharing. They also provide built-in recording, so no extra screen capture software is needed. Example: https://blog.smu.edu/itconnect/2017/08/23/using-zoom-create-quick-easy-screen-recordings-free/
 
 
