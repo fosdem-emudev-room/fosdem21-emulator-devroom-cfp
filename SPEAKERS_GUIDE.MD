@@ -15,7 +15,7 @@
     - https://lists.fosdem.org/private/devroom-managers/2020-December/002178.html
     - https://lists.fosdem.org/private/devroom-managers/2020-December/002175.html
 
-A presentation consists of 3 parts:
+A presentation consists of 2 or 3 parts:
 - Talk(duh) - this is the **pre-recorded** portion of your talk
 - Formal Q&A - this is the **live** Q&A session that happens after the pre-recorded part is finished
 - Informal Q&A - this is an **optional** continuation of the Formal Q&A, that happens in a different room when the time is up
