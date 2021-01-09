@@ -41,6 +41,8 @@ This means:
     - https://lists.fosdem.org/private/devroom-managers/2021-January/002214.html
     - https://otl.du.edu/knowledgebase/using-zoom-to-record-a-video-presentation/
     - https://lists.fosdem.org/private/devroom-managers/2021-January/002239.html <-- thanks Collab devroom!
+    - https://lists.fosdem.org/private/devroom-managers/2021-January/002255.html
+    - https://lists.fosdem.org/private/devroom-managers/2021-January/002252.html
 There are currently 2 obvious ways to record the talks:
 - Conference call record(**recommended**) - we would set up a call with one of the moderators/hosts, and record the online presentation(Jitsi, Zoom, Meets...etc)
 - Record by yourself - meaning you as speaker are free to choose whatever software(OBS?) or green screen or what not to make the talk as fancy as possible
@@ -58,7 +60,16 @@ So everybody is free to use whatever tool they want of course, but here are a co
 We haven't heard about the official deadline yet, but for the time being **January 17th 2021** will serve as our deadline.
 
 #### How to upload the video?
-TBA
+You can upload videos by going to https://penta.fosdem.org/submission/FOSDEM21/events and selecting your event(talk).
+
+Some things to keep in mind:
+- The *Pre-recorded Video Upload URL	**Upload*** button doesn't look like a button :)
+- Upload size limit = **1 GB**
+- Processing time after upload could take about **100 minutes**
+- The *Presentation Length* field is set automagically once the upload/processing is complete. **Do not edit manually afterwards.**
+- The **Review button** will allow you to check and edit the video
+  - It's still unclear how you replace an already uploaded video
+- The uploaded video will be shown as is; so not framed in some sponsor laden frame or anything.
 
 ## How to live Q&A
     sources:
