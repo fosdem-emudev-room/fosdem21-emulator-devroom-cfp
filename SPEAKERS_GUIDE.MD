@@ -67,8 +67,9 @@ Some things to keep in mind:
 - Upload size limit = **1 GB**
 - Processing time after upload could take about **100 minutes**
 - The *Presentation Length* field is set automagically once the upload/processing is complete. **Do not edit manually afterwards.**
-- The **Review button** will allow you to check and edit the video
-  - It's still unclear how you replace an already uploaded video
+- The **Review button**(also doesn't look like a button) will allow you to check and edit the video
+  - ~It's still unclear how you replace an already uploaded video~
+  - You can replace an uploaded video by simply uploading a new one
 - The uploaded video will be shown as is; so not framed in some sponsor laden frame or anything.
 
 ## How to live Q&A
